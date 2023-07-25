@@ -15,12 +15,12 @@
   <code><img height="30" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
   <code><img height="30" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
   <code><img height="30" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="30" alt="RaspberryPi" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"></code>
-  <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
-  <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
-  <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-  <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
   <code><img height="30" alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"></code>
+  <code><img height="30" alt="RaspberryPi" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"></code>
+  <code><img height="30" alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
+  <code><img height="30" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
+  <code><img height="30" alt="Blender" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
+  <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 </p>
 
 <p align="center">
