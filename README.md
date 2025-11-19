@@ -23,6 +23,12 @@
   <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConTronTech&show_icons=true&theme=radical" alt="ConTronTech's github stats" /></a>
-</p>
+<div align="center">
+
+![controntech's Stats](https://github-readme-stats.vercel.app/api?username=controntech&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![controntech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=controntech&theme=vue-dark&hide_border=true)
+
+![controntech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=controntech&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
