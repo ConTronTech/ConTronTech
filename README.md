@@ -6,7 +6,7 @@
 
 I build things from scratch, break things that aren't mine, and make both better.
 
-[Ask me anything](https://github.com/ConTronTech/ConTronTech/issues) · [Discord](https://discordapp.com/users/503706589811965953) · [site](https://controntech.uk/)
+[Ask me anything](https://github.com/ConTronTech/ConTronTech/issues) · [Discord](https://discordapp.com/users/503706589811965953) · [Site](https://controntech.uk/)
 
 </div>
 
