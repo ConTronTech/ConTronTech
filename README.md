@@ -36,20 +36,20 @@ I build things from scratch, break things that aren't mine, and make both better
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [Scav Mod Manager](https://github.com/ConTronTech/scav-mod-manager) | Mod manager and custom item framework for Casualties Unknown. DLL patching, JSON item system, in-game cheat menu. | C#, Mono.Cecil, IL |
-| [ESP-OS v1](https://github.com/ConTronTech/esp-os-v1) | Custom OS for Elecrow ESP32-S3 7" display, runs off SD card | C++ |
-| [EZ Autoclicker](https://github.com/ConTronTech/ez_autoclicker) | Windows autoclicker with keystroke injection | Rust |
-| [MAC Spoof](https://github.com/ConTronTech/mac-spoof) | Linux MAC address spoofing tool | C++ |
-| [MouseCat](https://github.com/ConTronTech/MouseCat) | Animated desktop pet inspired by classic Oneko | C++ |
-| [Hyprland Fork](https://github.com/ConTronTech/hyprland-fork) | Hyprland dotfiles with install script for fresh Arch | Shell |
-| [ESP32 MultiCam](https://github.com/ConTronTech/esp32-multicli) | ESP32-hosted multi-camera viewer for ESP-CAM and IP cameras | C |
-| [GoPro Webcam Linux](https://github.com/ConTronTech/gopro_as_webcam_on_linux) | Use a GoPro as a webcam on Linux | Shell |
+| [Scav Mod Manager](https://github.com/ConTronTech/scav-mod-manager) | Mod manager and custom item framework for Casualties Unknown. DLL patching, JSON item system, in-game cheat menu. | C#, Mono.Cecil, IL | - works
+| [ESP-OS v1](https://github.com/ConTronTech/esp-os-v1) | Custom OS for Elecrow ESP32-S3 7" display, runs off SD card | C++ | - fail
+| [EZ Autoclicker](https://github.com/ConTronTech/ez_autoclicker) | Windows autoclicker with keystroke injection | Rust | - works
+| [MAC Spoof](https://github.com/ConTronTech/mac-spoof) | Linux MAC address spoofing tool | C++ | - works
+| [MouseCat](https://github.com/ConTronTech/MouseCat) | Animated desktop pet inspired by classic Oneko | C++ | - works
+| [Hyprland Fork](https://github.com/ConTronTech/hyprland-fork) | Hyprland dotfiles with install script for fresh Arch | Shell | - fork
+| [ESP32 MultiCam](https://github.com/ConTronTech/esp32-multicli) | ESP32-hosted multi-camera viewer for ESP-CAM and IP cameras | C | - works
+| [GoPro Webcam Linux](https://github.com/ConTronTech/gopro_as_webcam_on_linux) | Use a GoPro as a webcam on Linux | Shell | - fork
 
 ---
 
 ### What I'm into
 
-- **Reverse engineering** — Decompiling, IL patching, modding games that don't want to be modded
+- **Reverse engineering** — Decompiling, patching, modding games that don't want to be modded
 - **Embedded systems** — ESP32, Raspberry Pi, custom hardware projects
 - **Low-level programming** — C, C++, Rust. The closer to the metal, the better
 - **Linux** — Arch btw. Hyprland on the daily
