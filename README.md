@@ -36,14 +36,14 @@ I build things from scratch, break things that aren't mine, and make both better
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [Scav Mod Manager](https://github.com/ConTronTech/scav-mod-manager) | Mod manager and custom item framework for Casualties Unknown. DLL patching, JSON item system, in-game cheat menu. | C#, Mono.Cecil, IL | - works
-| [ESP-OS v1](https://github.com/ConTronTech/esp-os-v1) | Custom OS for Elecrow ESP32-S3 7" display, runs off SD card | C++ | - fail
-| [EZ Autoclicker](https://github.com/ConTronTech/ez_autoclicker) | Windows autoclicker with keystroke injection | Rust | - works
+| [Scav Mod Manager](https://github.com/ConTronTech/scav-mod-manager) | Mod manager and custom item framework for Casualties Unknown. DLL patching, JSON item system, in-game cheat menu. - works | C#, Mono.Cecil, IL |
+| [ESP-OS v1](https://github.com/ConTronTech/esp-os-v1) | Custom OS for Elecrow ESP32-S3 7" display, runs off SD card - fail | C++ |
+| [EZ Autoclicker](https://github.com/ConTronTech/ez_autoclicker) | Windows autoclicker with keystroke injection - works | Rust |
 | [MAC Spoof](https://github.com/ConTronTech/mac-spoof) | Linux MAC address spoofing tool | C++ | - works
-| [MouseCat](https://github.com/ConTronTech/MouseCat) | Animated desktop pet inspired by classic Oneko | C++ | - works
-| [Hyprland Fork](https://github.com/ConTronTech/hyprland-fork) | Hyprland dotfiles with install script for fresh Arch | Shell | - fork
-| [ESP32 MultiCam](https://github.com/ConTronTech/esp32-multicli) | ESP32-hosted multi-camera viewer for ESP-CAM and IP cameras | C | - works
-| [GoPro Webcam Linux](https://github.com/ConTronTech/gopro_as_webcam_on_linux) | Use a GoPro as a webcam on Linux | Shell | - fork
+| [MouseCat](https://github.com/ConTronTech/MouseCat) | Animated desktop pet inspired by classic Oneko - works | C++ |
+| [Hyprland Fork](https://github.com/ConTronTech/hyprland-fork) | Hyprland dotfiles with install script for fresh Arch - fork | Shell |
+| [ESP32 MultiCam](https://github.com/ConTronTech/esp32-multicli) | ESP32-hosted multi-camera viewer for ESP-CAM and IP cameras - works | C |
+| [GoPro Webcam Linux](https://github.com/ConTronTech/gopro_as_webcam_on_linux) | Use a GoPro as a webcam on Linux - fork | Shell |
 
 ---
 
