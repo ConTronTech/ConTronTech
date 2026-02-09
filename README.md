@@ -52,7 +52,7 @@ I build things from scratch, break things that aren't mine, and make both better
 - **Reverse engineering** — Decompiling, patching, modding games that don't want to be modded
 - **Embedded systems** — ESP32, Raspberry Pi, custom hardware projects
 - **Low-level programming** — C, C++, Rust. The closer to the metal, the better
-- **Linux** — Arch btw. Hyprland on the daily
+- **Linux** — making linux based apps that support full functionality
 - **Game development** — From scratch, not engines. If I can't control it, I build it myself
 
 ---
