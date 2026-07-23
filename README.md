@@ -36,7 +36,7 @@ I build things from scratch, break things that aren't mine, and make both better
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [Scav Mod Manager](https://github.com/ConTronTech/scav-mod-manager) | Mod manager and custom item framework for Casualties Unknown. DLL patching, JSON item system, in-game cheat menu. - works | C#, Mono.Cecil, IL |
+| [Scav Mod Manager](https://github.com/ConTronTech/scav-mod-manager) | Mod manager and custom item framework for Casualties Unknown. DLL patching, JSON item system, in-game cheat menu. - works discontinued for now | C#, Mono.Cecil, IL |
 | [ESP-OS v1](https://github.com/ConTronTech/esp-os-v1) | Custom OS for Elecrow ESP32-S3 7" display, runs off SD card - fail | C++ |
 | [EZ Autoclicker](https://github.com/ConTronTech/ez_autoclicker) | Windows autoclicker with keystroke injection - works | Rust |
 | [MAC Spoof](https://github.com/ConTronTech/mac-spoof) | Linux MAC address spoofing tool - works | C++ |
